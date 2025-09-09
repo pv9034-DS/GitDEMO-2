@@ -7,7 +7,7 @@ This assignment contains simple Python programs demonstrating **conditional stat
 
 ## 📝 Tasks
 
-### 🔹 Task 3: Even or Odd Checker
+### 🔹 Task 1: Even or Odd Checker
 A Python program that:
 - Takes an integer input from the user  
 - Checks whether the number is even or odd using an `if-else` statement  
@@ -23,7 +23,7 @@ Enter a number: 7
 
 ---
 
-### 🔹 Task 4: Sum of Numbers (1 to 50) using While Loop
+### 🔹 Task 2: Sum of Numbers (1 to 50) using While Loop
 A Python program that:
 - Uses a `while` loop to iterate over numbers from 1 to 50  
 - Calculates the sum of all integers in this range  
